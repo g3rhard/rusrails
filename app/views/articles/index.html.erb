@@ -1,0 +1,18 @@
+<h1>Все записи</h1>
+
+<%= link_to 'Новая запись', new_article_path %>
+
+<table>
+  <tr>
+    <th>Заголовок</th>
+    <th>Текст</th>
+  </tr>
+  <% @articles.each do |article| %>
+  <tr>
+    <td><%= link_to article.title, article_path(article) %></td>
+    <td><%= link_to 'Редактировать', edit_article_path(article) %></td>
+    <td><%= article.text %></td>
+    <td><%= link_to 'Удалить', article_path(article), method: :delete, data: { confirm: 'Вы уверены?'} %></td>
+  </tr>
+  <% end %>
+</table>

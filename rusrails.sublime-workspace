@@ -1,0 +1,838 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"er",
+				"errors"
+			],
+			[
+				"Ar",
+				"Article"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"artic",
+				"article_params"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"res",
+				"respond_to"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"lin",
+				"line_item"
+			],
+			[
+				"li",
+				"line_item"
+			],
+			[
+				"Line",
+				"LineItem"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"ine",
+				"inline"
+			],
+			[
+				"cart",
+				"cart_id"
+			],
+			[
+				"ass",
+				"assert_select"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ase",
+				"assert_equal"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"eac",
+				"each"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"new",
+				"new_product"
+			],
+			[
+				"ima",
+				"image_url"
+			],
+			[
+				"gre",
+				"greater"
+			],
+			[
+				"in",
+				"invalid"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"m",
+				"min-width"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"My",
+				"myMap"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.rdoc",
+			"settings":
+			{
+				"buffer_size": 102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/welcome/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1625,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/articles_controller.rb",
+			"settings":
+			{
+				"buffer_size": 548,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/articles/edit.html.erb",
+			"settings":
+			{
+				"buffer_size": 57,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/articles/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/article.rb",
+			"settings":
+			{
+				"buffer_size": 97,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/articles/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/articles/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 644,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/g3rhard/Project/GitHub/rusrails",
+		"/Users/g3rhard/Project/GitHub/rusrails/app",
+		"/Users/g3rhard/Project/GitHub/rusrails/app/views",
+		"/Users/g3rhard/Project/GitHub/rusrails/app/views/articles",
+		"/Users/g3rhard/Project/GitHub/rusrails/app/views/welcome",
+		"/Users/g3rhard/Project/GitHub/rusrails/config"
+	],
+	"file_history":
+	[
+		"/Users/g3rhard/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/7ac34082-93b7-489a-81b2-f29f3758905b/rc38.ts6.ru/wp-content/themes/realia/assets/css/realia-green.css",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/controllers/line_items_controller.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/views/carts/show.html.erb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/models/cart.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/views/store/index.html.erb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/views/layouts/application.html.erb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/controllers/carts_controller.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/test/controllers/carts_controller_test.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/test/controllers/line_items_controller_test.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/db/migrate/20141011044943_add_product_price_to_line_item.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/models/line_item.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/db/migrate/20141009074458_combine_items_in_cart.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/db/migrate/20141009045431_add_quantity_to_line_items.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/views/products/index.html.erb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/views/carts/index.html.erb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/assets/stylesheets/store.css.scss",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/models/product.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/controllers/concerns/current_cart.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/test/controllers/store_controller_test.rb",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/_includes/themes/bootstrap-3/post.html",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/_includes/themes/bootstrap-3/page.html",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/404.html",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/index.md",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/_includes/themes/bootstrap-3/main.html",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/_layouts/main.html",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/_config.yml",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/assets/themes/bootstrap-3/bootstrap/css/cover.css",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/README.md",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/pages.html",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/tags.html",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/categories.html",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/archive.html",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/_posts/2014-10-04-------.md",
+		"/Users/g3rhard/Project/GitHub/g3rhard.github.io/index.html",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/public/404.html",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/config/environments/production.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/config/environment.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/config/application.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/test/models/product_test.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/test/fixtures/products.yml",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/config.ru",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/helpers/products_helper.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/controllers/products_controller.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/depot/app/controllers/application_controller.rb",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/first_app/app/controllers/application_controller.rb",
+		"/Users/g3rhard/Documents/TASK LIST",
+		"/Users/g3rhard/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/local_rails_machine",
+		"/Users/g3rhard/Dropbox/tatiana.vasyukovich@icloud.com",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/05cf828d-7a15-4cfa-96d2-a82ba840f32b/root/rails_projects/first_app/app/views/layouts/application.html.erb",
+		"/Users/g3rhard/Dropbox/Projects/WTL/languages",
+		"/Users/g3rhard/Dropbox/Pomestye.com",
+		"/Users/g3rhard/Dropbox/joandoe6548@gmail.com",
+		"/Users/g3rhard/Downloads/Программа/Программа/spec_dff/spec_dff.c",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/088a2807-fa9e-4468-8efd-34cfd0d93798/var/www/test/index.php",
+		"/private/var/folders/w8/sszrzr5s601cdxn7462v8zsr0000gn/T/a14df5f2-92be-441c-a28b-9f5cca94dfe9/var/www/test/index.php",
+		"/Users/g3rhard/Library/Application Support/Synthesia/multiDevice.xml",
+		"/Users/g3rhard/Library/Application Support/Synthesia/settings.xml",
+		"/Applications/Synthesia/Synthesia.app/Contents/Resources/ui.xml",
+		"/Users/g3rhard/Documents/Maps/print.css",
+		"/Volumes/Untitled/downloads/style.css",
+		"/Volumes/Untitled/downloads/maps.html",
+		"/Volumes/Untitled/downloads/pass",
+		"/Volumes/Synthesia/crack/union.key",
+		"/Volumes/Untitled/soft/mac os/Synthesia.v8.5-UNION/MAC/union.nfo",
+		"/Volumes/WTLIB12U/rs_data/PUBS/BI12_U/BI12_U.PUB",
+		"/Volumes/WTLIB12U/rs_data/VIEWS/01_Bible.view",
+		"/Volumes/WTLIB12U/rs_data/Libraries.list",
+		"/Volumes/WTLIB12U/rs_data/Refworks.list",
+		"/Volumes/WTLIB12U/rs_data/wtu.LIDX",
+		"/Volumes/WTLIB12U/MobileData/SMALL.STYLE",
+		"/Volumes/WTLIB12U/MobileData/wtu.THEME",
+		"/Volumes/WTLIB12U/MobileData/wtu.VIEW",
+		"/Users/g3rhard/Downloads/BLACKSTUD.IO"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#1c3717",
+			".border-top",
+			".header-top",
+			"main_logo_min",
+			"img",
+			"Поиск",
+			"Резюме",
+			"(\\r)",
+			"ru",
+			"\"",
+			"class=\"library\" data-lang=\"",
+			"(?:class=\"library\" data-lang=\"..\")",
+			"(?:class=\"library\" data-lang=\"...\")",
+			"class=\"library\" data-lang=\"...\"/g",
+			"/class=\"library\" data-lang=\"...\"/g",
+			"class=\"library\" data-lang=\"..\"",
+			"class=\"library\" data-lang=\"...\"",
+			"class=\"library\" data-lang=\"\\w\\w\"",
+			"class=\"library\" data-lang=\"",
+			"class=\"library\" data-lang=\"[a-z]\"",
+			"data-lang=\" [a-z] \"",
+			"width: 420px!important;",
+			"width: 420px;",
+			"max-width: 560px!important;",
+			"            <div class=\"information\">\n                Храни, пожалуйста, эту карту в чехле. Не пачкай её, не делай на ней пометок и не сгибай. Всякий раз, когда прорабатывается участок, сообщай, пожалуйста, об этом брату, ведущему картотеку территории собрания.\n            </div>\n            <div class=\"code\">\n                S-12 U    6/72\n            </div>",
+			"Местонахождение: <input type=\"text\" size=\"40\">",
+			"            <div class=\"some\">Твой дом: <input type=\"text\" size=\"40\"></div>",
+			"Местонахождение",
+			"Твой дом"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"#007666",
+			"*",
+			"-*http://m.wol.jw.org/",
+			"max-width: 600px; width: 420px!important;",
+			"width: 420px!important;",
+			"width: 420px;",
+			"",
+			"Местонахождение: <input type=\"text\" size=\"40\" style:\"max-width: 550px!important;\">",
+			"<input type=\"text\" size=\"40\" style:\"max-width: 550px;\">",
+			" ",
+			"Местонахождение:",
+			"Твой дом:"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.rdoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/welcome/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/controllers/articles_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/articles/edit.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/articles/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/models/article.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 97,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/views/articles/show.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/views/articles/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								355
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "rusrails.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
